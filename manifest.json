@@ -1,0 +1,12 @@
+﻿{
+	"name": "FlatImageModels",
+	"authorName": "Gorakh",
+	"displayName": "Flat Image Models",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Goorakh/*",
+	"description": "TODO",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2100",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}
