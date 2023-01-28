@@ -14,7 +14,7 @@ namespace FlatImageModels
 
         static string getLogPrefix(string callerPath, string callerMemberName, int callerLineNumber)
         {
-            const string MOD_NAME = "ModTemplate";
+            const string MOD_NAME = "FlatImageModels";
 
             int modNameLastPathIndex = callerPath.LastIndexOf(MOD_NAME);
             if (modNameLastPathIndex >= 0)
